@@ -1,0 +1,10 @@
+#gallery {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  #form, #userInfo, #dice, #coupon, #congratulations {
+    padding: 20px;
+    text-align: center;
+  }
+  
